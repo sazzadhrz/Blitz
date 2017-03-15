@@ -1,0 +1,7 @@
+logo - pacifico
+
+h1 - bebass
+
+slider paragraph = helveticaneue medium
+
+p - helveticaneue
